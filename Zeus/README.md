@@ -1,4 +1,4 @@
-﻿﻿# Zeus
+﻿# Zeus
 
 Zeus ist eine Implementierung des Spiels Schere, Stein, Papier mit Multiplayer-Funktionalität.
 
